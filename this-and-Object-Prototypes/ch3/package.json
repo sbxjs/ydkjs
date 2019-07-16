@@ -1,0 +1,9 @@
+{
+  "name": "this-and-object-prototypes-ch4",
+  "version": "0.1.0",
+  "description": "YDKJS This and Object Prototypes - Chapter 4",
+  "main": "index.js",
+  "author": "Elbert Castañeda <elbert.castaneda@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
