@@ -1,0 +1,22 @@
+{
+  "name": "this-and-object-prototypes-ch3",
+  "version": "0.1.0",
+  "description": "YDKJS This and Object Prototypes - Chapter 4",
+  "main": "index.js",
+  "author": "Elbert Castañeda <elbert.castaneda@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "jest --watchAll --coverage"
+  },
+  "private": false,
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4",
+    "@babel/node": "^7.5.0",
+    "@babel/preset-env": "^7.5.4",
+    "@types/jest": "^24.0.15",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
